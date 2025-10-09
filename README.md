@@ -1,6 +1,8 @@
 
 # Lending Club - Risk Analytics
 
+![Lending Club IPO in 2014](/assets/1.jpg "Lending Club IPO in 2014")
+
 > Comprehensive data warehouse and BI report analyzing risk and return dynamics in U.S. peer-to-peer lending.
 
 This project models LendingClub loan performance from 2007–2014 through a full **star schema** in PostgreSQL and visualizes insights with Power BI. Highlighting relationships between borrower profiles, loan grades, default behavior, and investor returns.
